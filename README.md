@@ -1,2 +1,14 @@
-# Salesforce---Validador-CNPJ-Alfanum-rico
-Classe de serviço + teste para validação de CNPJ Alfanumérico modelo 2026
+# Salesforce---Validador-CNPJ-Alfanumérico
+A classe de teste valida os seguintes cenários:
+
+CNPJ Alfanumérico válido.
+
+CNPJ Numérico (legado) válido.
+
+Entradas com e sem formatação.
+
+Dígitos verificadores incorretos.
+
+Tratamento de letras minúsculas.
+
+Validação de comprimento (14 caracteres).
